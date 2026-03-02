@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/temp/Racer_UI/Content/MainMenuTest.umap",
+				"C:/temp/Racer_UI/Content/UI/gmMainMenu.uasset",
+				"C:/temp/Racer_UI/Content/UI/TempMainMenu/tempBackground.uasset",
+				"C:/temp/Racer_UI/Content/UI/uiMainMenu.uasset",
+				"C:/temp/Racer_UI/Content/UI/tempBackgroundMp4.uasset",
+				"C:/temp/Racer_UI/Content/UI/TempMainMenu/gmMainMenu.uasset",
+				"C:/temp/Racer_UI/Content/UI/TempMainMenu/menuBackground_Temp_Video.uasset",
+				"C:/temp/Racer_UI/Content/UI/TempMainMenu/menuBackground_Temp.uasset",
+				"C:/temp/Racer_UI/Content/UI/TempMainMenu/menuBackground_Temp_Video_Mat.uasset",
+				"C:/temp/Racer_UI/Content/Movies/tempBackgroundDrift.uasset",
+				"C:/temp/Racer_UI/Content/mainMenu.umap"
+			]
+		}
+	]
+}
