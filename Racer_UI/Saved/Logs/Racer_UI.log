@@ -2612,3 +2612,81 @@ Sampler Limit: 32
 [2026.03.05-14.12.07:272][597]AssetCheck: /Game/UI/Assets/carClassicMesh Validating asset
 [2026.03.05-14.12.07:272][597]AssetCheck: /Game/UI/Assets/carSportMesh Validating asset
 [2026.03.05-14.12.07:299][597]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../temp/TeamProjectRacing/Racer_UI/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.05-14.13.44:138][557]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.03.05-14.13.44:139][557]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.03.05-14.13.47:076][895]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.03.05-14.14.13:366][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/100742688/Cylinder_D0EE5685.Cylinder_D0EE5685
+[2026.03.05-14.14.13:368][860]LogStaticMesh: Display: Building static mesh Cylinder_D0EE5685 (Required Memory Estimate: 0.109482 MB)...
+[2026.03.05-14.14.13:368][860]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/100742688/Cylinder_D0EE5685.Cylinder_D0EE5685 as actor: StaticMeshActor /Game/vehicleSelection.vehicleSelection:PersistentLevel.StaticMeshActor_7
+[2026.03.05-14.14.13:369][860]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/100742688/Cylinder_D0EE5685.Cylinder_D0EE5685
+[2026.03.05-14.14.35:741][867]Cmd: SELECT NONE
+[2026.03.05-14.15.19:039][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-14.15.19:093][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vehicleSelection" FILE="../../../../../../temp/TeamProjectRacing/Racer_UI/Content/vehicleSelection.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.05-14.15.19:171][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.03.05-14.15.19:196][160]LogSavePackage: Moving output files for package: /Game/vehicleSelection
+[2026.03.05-14.15.19:198][160]LogSavePackage: Moving '../../../../../../temp/TeamProjectRacing/Racer_UI/Saved/vehicleSelection0FC91BE54068993931C95F861D86129A.tmp' to '../../../../../../temp/TeamProjectRacing/Racer_UI/Content/vehicleSelection.umap'
+[2026.03.05-14.15.19:228][160]LogFileHelpers: Saving map 'vehicleSelection' took 0.135
+[2026.03.05-14.15.19:240][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.425 ms (total: 1.62 sec)
+[2026.03.05-14.15.19:275][160]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-14.15.19:275][160]LogContentValidation: Enabled validators:
+[2026.03.05-14.15.19:275][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-14.15.19:275][160]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-14.15.19:275][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-14.15.19:275][160]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-14.15.19:275][160]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-14.15.19:275][160]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-14.15.19:275][160]AssetCheck: /Game/vehicleSelection Validating asset
+[2026.03.05-14.15.20:491][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.05-14.15.22:336][278]LogSlate: Window 'Save Content' being destroyed
+[2026.03.05-14.15.31:918][170]LogContentBrowser: Attempting asset rename: Cylinder_D0EE5685 -> selectionPodium
+[2026.03.05-14.15.32:015][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-14.15.32:016][170]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/100742688/selectionPodium] ([1] browsable assets)...
+[2026.03.05-14.15.32:043][170]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/100742688/selectionPodium.selectionPodium]
+[2026.03.05-14.15.32:043][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/100742688/selectionPodium]
+[2026.03.05-14.15.32:043][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/100742688/selectionPodium" FILE="../../../../../../temp/TeamProjectRacing/Racer_UI/Content/_GENERATED/100742688/selectionPodium.uasset" SILENT=true
+[2026.03.05-14.15.32:062][170]LogSavePackage: Moving output files for package: /Game/_GENERATED/100742688/selectionPodium
+[2026.03.05-14.15.32:062][170]LogSavePackage: Moving '../../../../../../temp/TeamProjectRacing/Racer_UI/Saved/selectionPodium1FAAA6DE486E025403617B8791309B97.tmp' to '../../../../../../temp/TeamProjectRacing/Racer_UI/Content/_GENERATED/100742688/selectionPodium.uasset'
+[2026.03.05-14.15.32:064][170]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/100742688/Cylinder_D0EE5685] ([1] browsable assets)...
+[2026.03.05-14.15.32:064][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/100742688/Cylinder_D0EE5685]
+[2026.03.05-14.15.32:064][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/100742688/Cylinder_D0EE5685" FILE="../../../../../../temp/TeamProjectRacing/Racer_UI/Content/_GENERATED/100742688/Cylinder_D0EE5685.uasset" SILENT=true
+[2026.03.05-14.15.32:080][170]LogSavePackage: Moving output files for package: /Game/_GENERATED/100742688/Cylinder_D0EE5685
+[2026.03.05-14.15.32:080][170]LogSavePackage: Moving '../../../../../../temp/TeamProjectRacing/Racer_UI/Saved/Cylinder_D0EE5685307674344241FC61B77DE7853CFDEF21.tmp' to '../../../../../../temp/TeamProjectRacing/Racer_UI/Content/_GENERATED/100742688/Cylinder_D0EE5685.uasset'
+[2026.03.05-14.15.32:082][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.766 ms (total: 1.69 sec)
+[2026.03.05-14.15.32:153][170]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.05-14.15.32:153][170]LogContentValidation: Enabled validators:
+[2026.03.05-14.15.32:153][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-14.15.32:153][170]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-14.15.32:153][170]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-14.15.32:153][170]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-14.15.32:153][170]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-14.15.32:153][170]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-14.15.32:153][170]AssetCheck: /Game/_GENERATED/100742688/selectionPodium Validating asset
+[2026.03.05-14.15.32:153][170]AssetCheck: /Game/_GENERATED/100742688/Cylinder_D0EE5685 Validating asset
+[2026.03.05-14.15.32:199][170]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../temp/TeamProjectRacing/Racer_UI/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.05-14.15.39:650][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-14.15.39:650][972]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/100742688/Cylinder_D0EE5685] ([1] browsable assets)...
+[2026.03.05-14.15.39:650][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/100742688/Cylinder_D0EE5685]
+[2026.03.05-14.15.39:650][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/100742688/Cylinder_D0EE5685" FILE="../../../../../../temp/TeamProjectRacing/Racer_UI/Content/_GENERATED/100742688/Cylinder_D0EE5685.uasset" SILENT=true
+[2026.03.05-14.15.39:665][972]LogSavePackage: Moving output files for package: /Game/_GENERATED/100742688/Cylinder_D0EE5685
+[2026.03.05-14.15.39:666][972]LogSavePackage: Moving '../../../../../../temp/TeamProjectRacing/Racer_UI/Saved/Cylinder_D0EE5685E0C421EE47646F8689DA53B58D2A2F3F.tmp' to '../../../../../../temp/TeamProjectRacing/Racer_UI/Content/_GENERATED/100742688/Cylinder_D0EE5685.uasset'
+[2026.03.05-14.15.39:669][972]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Assets/selectionPodium] ([1] browsable assets)...
+[2026.03.05-14.15.39:669][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Assets/selectionPodium]
+[2026.03.05-14.15.39:669][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Assets/selectionPodium" FILE="../../../../../../temp/TeamProjectRacing/Racer_UI/Content/UI/Assets/selectionPodium.uasset" SILENT=true
+[2026.03.05-14.15.39:684][972]LogSavePackage: Moving output files for package: /Game/UI/Assets/selectionPodium
+[2026.03.05-14.15.39:684][972]LogSavePackage: Moving '../../../../../../temp/TeamProjectRacing/Racer_UI/Saved/selectionPodium1831D3ED40698E8D0DBE42AEA200667D.tmp' to '../../../../../../temp/TeamProjectRacing/Racer_UI/Content/UI/Assets/selectionPodium.uasset'
+[2026.03.05-14.15.39:686][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.480 ms (total: 1.72 sec)
+[2026.03.05-14.15.39:732][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.05-14.15.39:754][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.05-14.15.39:773][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.05-14.15.39:797][972]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.05-14.15.39:797][972]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.05-14.15.39:797][972]LogContentValidation: Enabled validators:
+[2026.03.05-14.15.39:797][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-14.15.39:797][972]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-14.15.39:797][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-14.15.39:797][972]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-14.15.39:797][972]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-14.15.39:797][972]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-14.15.39:798][972]AssetCheck: /Game/_GENERATED/100742688/Cylinder_D0EE5685 Validating asset
+[2026.03.05-14.15.39:798][972]AssetCheck: /Game/UI/Assets/selectionPodium Validating asset
+[2026.03.05-14.15.39:815][972]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../temp/TeamProjectRacing/Racer_UI/Saved/SourceControl/UncontrolledChangelists.json
