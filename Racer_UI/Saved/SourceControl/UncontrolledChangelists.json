@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/tmp/TeamProjectRacing/Racer_UI/Content/UI/VehicleSelectionMenu/uiVehicleSelection.uasset",
+				"C:/tmp/TeamProjectRacing/Racer_UI/Content/vehicleSelection.umap",
+				"C:/tmp/TeamProjectRacing/Racer_UI/Content/UI/Assets/carClassicMesh.uasset",
+				"C:/tmp/TeamProjectRacing/Racer_UI/Content/UI/Assets/carSportMesh.uasset",
+				"C:/tmp/TeamProjectRacing/Racer_UI/Content/UI/VehicleSelectionMenu/vehiclePreview.uasset",
 				"C:/temp/TeamProjectRacing/Racer_UI/Content/UI/Assets/selectionRoomTemp.uasset",
 				"C:/temp/TeamProjectRacing/Racer_UI/Content/UI/Assets/selectionColourTemp.uasset",
 				"C:/temp/TeamProjectRacing/Racer_UI/Content/vehicleSelection.umap",
