@@ -5348,3 +5348,195 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.15-16.58.15:753][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.15-16.58.15:754][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7268.418945, Update Interval: 350.238342
 [2026.03.15-16.59.01:427][475]LogDerivedDataCache: C:/Users/Nosre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.15-17.03.32:018][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2026.03.15-17.03.32:023][639]LogStreaming: Display: FlushAsyncLoading(534): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.15-17.03.32:072][639]LogChaosDD: Creating Chaos Debug Draw Scene for world mainMenu
+[2026.03.15-17.03.32:073][639]LogAssetEditorSubsystem: Opening Asset editor for World /Game/mainMenu.mainMenu
+[2026.03.15-17.03.32:074][639]Cmd: MAP LOAD FILE="../../../../../TeamProjectRacing/Racer_UI/Content/mainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.15-17.03.32:190][639]LogWorld: UWorld::CleanupWorld for vehicleSelection, bSessionEnded=true, bCleanupResources=true
+[2026.03.15-17.03.32:190][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.15-17.03.32:232][639]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.15-17.03.32:250][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2026.03.15-17.03.32:258][639]LogWorld: UWorld::CleanupWorld for mainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.15-17.03.32:258][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.15-17.03.32:300][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.03.15-17.03.32:411][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.03.15-17.03.32:448][639]LogAudio: Display: Audio Device (ID: 1) registered with world 'mainMenu'.
+[2026.03.15-17.03.32:448][639]LogChaosDD: Creating Chaos Debug Draw Scene for world mainMenu
+[2026.03.15-17.03.32:465][639]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.15-17.03.32:509][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.03.15-17.03.32:524][639]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.15-17.03.32:524][639]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2026.03.15-17.03.41:212][393]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/TempMainMenu/uiMainMenu.uiMainMenu
+[2026.03.15-17.03.41:212][393]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_86
+[2026.03.15-17.03.41:221][393]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_87
+[2026.03.15-17.04.59:781][ 72]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7672.776855
+[2026.03.15-17.05.00:782][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.15-17.05.00:782][ 75]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7673.442871, Update Interval: 327.406219
+[2026.03.15-17.07.05:024][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.15-17.07.05:084][208]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/TempMainMenu/uiMainMenu] ([2] browsable assets)...
+[2026.03.15-17.07.05:089][208]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/TempMainMenu/uiMainMenu.uiMainMenu]
+[2026.03.15-17.07.05:090][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TempMainMenu/uiMainMenu]
+[2026.03.15-17.07.05:090][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TempMainMenu/uiMainMenu" FILE="../../../../../TeamProjectRacing/Racer_UI/Content/UI/TempMainMenu/uiMainMenu.uasset" SILENT=true
+[2026.03.15-17.07.05:100][208]LogSavePackage: Moving output files for package: /Game/UI/TempMainMenu/uiMainMenu
+[2026.03.15-17.07.05:100][208]LogSavePackage: Moving '../../../../../TeamProjectRacing/Racer_UI/Saved/uiMainMenu9C3B2827478EA95EF0AD75A49FA6BAA3.tmp' to '../../../../../TeamProjectRacing/Racer_UI/Content/UI/TempMainMenu/uiMainMenu.uasset'
+[2026.03.15-17.07.05:111][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.111 ms (total: 3.82 sec)
+[2026.03.15-17.07.05:165][208]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.15-17.07.05:165][208]LogContentValidation: Enabled validators:
+[2026.03.15-17.07.05:165][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.15-17.07.05:165][208]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.15-17.07.05:165][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.15-17.07.05:165][208]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.15-17.07.05:165][208]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.15-17.07.05:165][208]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.15-17.07.05:166][208]AssetCheck: /Game/UI/TempMainMenu/uiMainMenu Validating asset
+[2026.03.15-17.07.05:182][208]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../TeamProjectRacing/Racer_UI/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.15-17.07.05:890][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2026.03.15-17.07.08:026][516]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.15-17.07.08:035][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.15-17.07.08:035][516]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_mainMenu
+[2026.03.15-17.07.08:037][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001389s)
+[2026.03.15-17.07.08:037][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mainMenu.mainMenu to /Game/UEDPIE_0_mainMenu.mainMenu (0.001422s)
+[2026.03.15-17.07.08:072][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.03.15-17.07.08:077][516]LogChaosDD: Creating Chaos Debug Draw Scene for world mainMenu
+[2026.03.15-17.07.08:079][516]LogPlayLevel: PIE: World Init took: (0.002597s)
+[2026.03.15-17.07.08:081][516]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2026.03.15-17.07.08:081][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.15-17.07.08:081][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.15-17.07.08:081][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.15-17.07.08:081][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.15-17.07.08:081][516]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.15-17.07.08:081][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.15-17.07.08:081][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.15-17.07.08:081][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.15-17.07.08:081][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.15-17.07.08:081][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.15-17.07.08:081][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.15-17.07.08:084][516]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.15-17.07.08:104][516]LogAudioMixer: Display: Using Audio Hardware Device Speakers (GS3)
+[2026.03.15-17.07.08:105][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.15-17.07.08:105][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.15-17.07.08:105][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.15-17.07.08:105][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2026.03.15-17.07.08:105][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2026.03.15-17.07.08:108][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2026.03.15-17.07.08:108][516]LogInit: FAudioDevice initialized with ID 41.
+[2026.03.15-17.07.08:108][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2026.03.15-17.07.08:108][516]LogAudio: Display: Audio Device (ID: 41) registered with world 'mainMenu'.
+[2026.03.15-17.07.08:108][516]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2026.03.15-17.07.08:168][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.15-17.07.08:168][516]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.15-17.07.08:169][516]LogWorld: Bringing World /Game/UEDPIE_0_mainMenu.mainMenu up for play (max tick rate 0) at 2026.03.15-17.07.08
+[2026.03.15-17.07.08:170][516]LogWorld: Bringing up level for play took: 0.000907
+[2026.03.15-17.07.08:173][516]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.03.15-17.07.08:174][516]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.15-17.07.08:188][516]PIE: Server logged in
+[2026.03.15-17.07.08:188][516]PIE: Play in editor total start time 0.154 seconds.
+[2026.03.15-17.07.09:489][589]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/vehicleSelection"
+[2026.03.15-17.07.09:489][589]LogNet: Browse: /Game/vehicleSelection
+[2026.03.15-17.07.09:490][589]LogLoad: LoadMap: /Game/vehicleSelection
+[2026.03.15-17.07.09:490][589]LogWorld: BeginTearingDown for /Game/UEDPIE_0_mainMenu
+[2026.03.15-17.07.09:491][589]LogWorld: UWorld::CleanupWorld for mainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.15-17.07.09:491][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.15-17.07.09:547][589]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.15-17.07.09:550][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.03.15-17.07.09:555][589]LogStreaming: Display: FlushAsyncLoading(536): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.15-17.07.09:592][589]LogAudio: Display: Audio Device (ID: 41) registered with world 'vehicleSelection'.
+[2026.03.15-17.07.09:592][589]LogChaosDD: Creating Chaos Debug Draw Scene for world vehicleSelection
+[2026.03.15-17.07.09:595][589]LogPlayLevel: PIE: World Init took: (0.002234s)
+[2026.03.15-17.07.09:595][589]LogLoad: Game class is 'gmVehicleSelect_C'
+[2026.03.15-17.07.09:596][589]LogWorld: Bringing World /Game/UEDPIE_0_vehicleSelection.vehicleSelection up for play (max tick rate 0) at 2026.03.15-17.07.09
+[2026.03.15-17.07.09:597][589]LogWorld: Bringing up level for play took: 0.001775
+[2026.03.15-17.07.09:600][589]LogBlueprintUserMessages: [uiVehicleSelection_C_0] 0
+[2026.03.15-17.07.09:600][589]LogLoad: Took 0.110186 seconds to LoadMap(/Game/vehicleSelection)
+[2026.03.15-17.07.09:600][589]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/vehicleSelection
+[2026.03.15-17.07.12:152][753]LogBlueprintUserMessages: [uiVehicleSelection_C_0] 0
+[2026.03.15-17.07.12:784][797]LogBlueprintUserMessages: [uiVehicleSelection_C_0] 0
+[2026.03.15-17.07.13:287][832]LogBlueprintUserMessages: [uiVehicleSelection_C_0] 0
+[2026.03.15-17.07.13:675][859]LogBlueprintUserMessages: [uiVehicleSelection_C_0] 0
+[2026.03.15-17.07.14:051][885]LogBlueprintUserMessages: [uiVehicleSelection_C_0] 0
+[2026.03.15-17.07.14:558][920]LogBlueprintUserMessages: [uiVehicleSelection_C_0] 0
+[2026.03.15-17.07.14:978][949]LogBlueprintUserMessages: [uiVehicleSelection_C_0] 0
+[2026.03.15-17.07.15:474][983]LogBlueprintUserMessages: [uiVehicleSelection_C_0] 0
+[2026.03.15-17.07.16:011][ 20]LogBlueprintUserMessages: [uiVehicleSelection_C_0] 0
+[2026.03.15-17.07.19:415][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.15-17.07.19:415][247]LogWorld: BeginTearingDown for /Game/UEDPIE_0_vehicleSelection
+[2026.03.15-17.07.19:415][247]LogSlate: Window 'Racer_UI Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.15-17.07.19:421][247]LogWorld: UWorld::CleanupWorld for vehicleSelection, bSessionEnded=true, bCleanupResources=true
+[2026.03.15-17.07.19:422][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.15-17.07.19:423][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.15-17.07.19:435][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.15-17.07.19:475][247]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2026.03.15-17.07.19:475][247]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=4
+[2026.03.15-17.07.19:478][247]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=2
+[2026.03.15-17.07.19:485][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.03.15-17.07.19:517][248]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.03.15-17.07.20:699][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.15-17.07.20:752][383]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/TempMainMenu/uiMainMenu] ([2] browsable assets)...
+[2026.03.15-17.07.20:755][383]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/TempMainMenu/uiMainMenu.uiMainMenu]
+[2026.03.15-17.07.20:755][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TempMainMenu/uiMainMenu]
+[2026.03.15-17.07.20:755][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TempMainMenu/uiMainMenu" FILE="../../../../../TeamProjectRacing/Racer_UI/Content/UI/TempMainMenu/uiMainMenu.uasset" SILENT=true
+[2026.03.15-17.07.20:765][383]LogSavePackage: Moving output files for package: /Game/UI/TempMainMenu/uiMainMenu
+[2026.03.15-17.07.20:765][383]LogSavePackage: Moving '../../../../../TeamProjectRacing/Racer_UI/Saved/uiMainMenu4513C94C47F4F0CE68E2FD8395B51162.tmp' to '../../../../../TeamProjectRacing/Racer_UI/Content/UI/TempMainMenu/uiMainMenu.uasset'
+[2026.03.15-17.07.20:775][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.394 ms (total: 3.90 sec)
+[2026.03.15-17.07.20:831][383]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.15-17.07.20:831][383]LogContentValidation: Enabled validators:
+[2026.03.15-17.07.20:831][383]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.15-17.07.20:831][383]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.15-17.07.20:831][383]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.15-17.07.20:831][383]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.15-17.07.20:831][383]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.15-17.07.20:831][383]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.15-17.07.20:832][383]AssetCheck: /Game/UI/TempMainMenu/uiMainMenu Validating asset
+[2026.03.15-17.08.10:402][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.03.15-17.08.57:980][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.15-17.08.58:035][368]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/TempMainMenu/uiMainMenu] ([2] browsable assets)...
+[2026.03.15-17.08.58:037][368]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/TempMainMenu/uiMainMenu.uiMainMenu]
+[2026.03.15-17.08.58:037][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TempMainMenu/uiMainMenu]
+[2026.03.15-17.08.58:037][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TempMainMenu/uiMainMenu" FILE="../../../../../TeamProjectRacing/Racer_UI/Content/UI/TempMainMenu/uiMainMenu.uasset" SILENT=true
+[2026.03.15-17.08.58:049][368]LogSavePackage: Moving output files for package: /Game/UI/TempMainMenu/uiMainMenu
+[2026.03.15-17.08.58:049][368]LogSavePackage: Moving '../../../../../TeamProjectRacing/Racer_UI/Saved/uiMainMenu818A9C8D49DABA3F39BB8F959FC6EDA9.tmp' to '../../../../../TeamProjectRacing/Racer_UI/Content/UI/TempMainMenu/uiMainMenu.uasset'
+[2026.03.15-17.08.58:062][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.103 ms (total: 3.98 sec)
+[2026.03.15-17.08.58:118][368]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.15-17.08.58:118][368]LogContentValidation: Enabled validators:
+[2026.03.15-17.08.58:118][368]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.15-17.08.58:118][368]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.15-17.08.58:118][368]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.15-17.08.58:119][368]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.15-17.08.58:119][368]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.15-17.08.58:119][368]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.15-17.08.58:120][368]AssetCheck: /Game/UI/TempMainMenu/uiMainMenu Validating asset
+[2026.03.15-17.09.08:954][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.15-17.09.09:016][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/TempMainMenu/uiMainMenu] ([2] browsable assets)...
+[2026.03.15-17.09.09:016][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TempMainMenu/uiMainMenu]
+[2026.03.15-17.09.09:016][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TempMainMenu/uiMainMenu" FILE="../../../../../TeamProjectRacing/Racer_UI/Content/UI/TempMainMenu/uiMainMenu.uasset" SILENT=true
+[2026.03.15-17.09.09:025][620]LogSavePackage: Moving output files for package: /Game/UI/TempMainMenu/uiMainMenu
+[2026.03.15-17.09.09:026][620]LogSavePackage: Moving '../../../../../TeamProjectRacing/Racer_UI/Saved/uiMainMenu0FC900934C3062F86BA5FA8378A6DDA0.tmp' to '../../../../../TeamProjectRacing/Racer_UI/Content/UI/TempMainMenu/uiMainMenu.uasset'
+[2026.03.15-17.09.09:034][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.990 ms (total: 4.06 sec)
+[2026.03.15-17.09.09:102][620]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.15-17.09.09:102][620]LogContentValidation: Enabled validators:
+[2026.03.15-17.09.09:103][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.15-17.09.09:103][620]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.15-17.09.09:103][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.15-17.09.09:103][620]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.15-17.09.09:103][620]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.15-17.09.09:103][620]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.15-17.09.09:104][620]AssetCheck: /Game/UI/TempMainMenu/uiMainMenu Validating asset
+[2026.03.15-17.09.10:663][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.03.15-17.09.35:693][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.15-17.09.35:732][ 66]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/TempMainMenu/uiMainMenu] ([2] browsable assets)...
+[2026.03.15-17.09.35:735][ 66]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/TempMainMenu/uiMainMenu.uiMainMenu]
+[2026.03.15-17.09.35:735][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TempMainMenu/uiMainMenu]
+[2026.03.15-17.09.35:735][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TempMainMenu/uiMainMenu" FILE="../../../../../TeamProjectRacing/Racer_UI/Content/UI/TempMainMenu/uiMainMenu.uasset" SILENT=true
+[2026.03.15-17.09.35:745][ 66]LogSavePackage: Moving output files for package: /Game/UI/TempMainMenu/uiMainMenu
+[2026.03.15-17.09.35:745][ 66]LogSavePackage: Moving '../../../../../TeamProjectRacing/Racer_UI/Saved/uiMainMenuBBF0AA7B4B2A9E1DC6070484CD3CA83D.tmp' to '../../../../../TeamProjectRacing/Racer_UI/Content/UI/TempMainMenu/uiMainMenu.uasset'
+[2026.03.15-17.09.35:755][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.679 ms (total: 4.12 sec)
+[2026.03.15-17.09.35:816][ 66]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.15-17.09.35:816][ 66]LogContentValidation: Enabled validators:
+[2026.03.15-17.09.35:816][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.15-17.09.35:816][ 66]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.15-17.09.35:816][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.15-17.09.35:816][ 66]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.15-17.09.35:816][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.15-17.09.35:816][ 66]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.15-17.09.35:817][ 66]AssetCheck: /Game/UI/TempMainMenu/uiMainMenu Validating asset
