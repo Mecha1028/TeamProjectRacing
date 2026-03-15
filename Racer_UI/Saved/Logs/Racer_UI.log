@@ -5540,3 +5540,35 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.15-17.09.35:816][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.15-17.09.35:816][ 66]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.15-17.09.35:817][ 66]AssetCheck: /Game/UI/TempMainMenu/uiMainMenu Validating asset
+[2026.03.15-17.10.08:962][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.15-17.10.09:019][638]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/TempMainMenu/uiMainMenu] ([2] browsable assets)...
+[2026.03.15-17.10.09:019][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TempMainMenu/uiMainMenu]
+[2026.03.15-17.10.09:019][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TempMainMenu/uiMainMenu" FILE="../../../../../TeamProjectRacing/Racer_UI/Content/UI/TempMainMenu/uiMainMenu.uasset" SILENT=true
+[2026.03.15-17.10.09:029][638]LogSavePackage: Moving output files for package: /Game/UI/TempMainMenu/uiMainMenu
+[2026.03.15-17.10.09:029][638]LogSavePackage: Moving '../../../../../TeamProjectRacing/Racer_UI/Saved/uiMainMenu84734EE84E43080F19F01B88BFFAAEDE.tmp' to '../../../../../TeamProjectRacing/Racer_UI/Content/UI/TempMainMenu/uiMainMenu.uasset'
+[2026.03.15-17.10.09:041][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.400 ms (total: 4.20 sec)
+[2026.03.15-17.10.09:102][638]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.15-17.10.09:102][638]LogContentValidation: Enabled validators:
+[2026.03.15-17.10.09:102][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.15-17.10.09:102][638]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.15-17.10.09:102][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.15-17.10.09:102][638]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.15-17.10.09:102][638]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.15-17.10.09:102][638]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.15-17.10.09:103][638]AssetCheck: /Game/UI/TempMainMenu/uiMainMenu Validating asset
+[2026.03.15-17.10.10:567][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.15-17.10.10:635][792]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/TempMainMenu/uiMainMenu] ([2] browsable assets)...
+[2026.03.15-17.10.10:635][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TempMainMenu/uiMainMenu]
+[2026.03.15-17.10.10:635][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TempMainMenu/uiMainMenu" FILE="../../../../../TeamProjectRacing/Racer_UI/Content/UI/TempMainMenu/uiMainMenu.uasset" SILENT=true
+[2026.03.15-17.10.10:645][792]LogSavePackage: Moving output files for package: /Game/UI/TempMainMenu/uiMainMenu
+[2026.03.15-17.10.10:645][792]LogSavePackage: Moving '../../../../../TeamProjectRacing/Racer_UI/Saved/uiMainMenuCAD087C44DE468E0BA4874B9B4485168.tmp' to '../../../../../TeamProjectRacing/Racer_UI/Content/UI/TempMainMenu/uiMainMenu.uasset'
+[2026.03.15-17.10.10:656][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.445 ms (total: 4.29 sec)
+[2026.03.15-17.10.10:718][792]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.15-17.10.10:718][792]LogContentValidation: Enabled validators:
+[2026.03.15-17.10.10:718][792]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.15-17.10.10:718][792]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.15-17.10.10:718][792]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.15-17.10.10:718][792]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.15-17.10.10:718][792]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.15-17.10.10:718][792]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.15-17.10.10:719][792]AssetCheck: /Game/UI/TempMainMenu/uiMainMenu Validating asset
