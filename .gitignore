@@ -72,3 +72,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Racer_UI/Saved/Config/CrashReportClient/UECC-Windows-A8BC8C6F4F9DA7250DEB1597279E7E80/CrashReportClient.ini
+Racer_UI/Saved/Logs/cef3-backup-2026.03.09-08.38.14.log
+Racer_UI/Saved/Logs/Racer_UI-backup-2026.03.09-10.11.10.log
+Racer_UI/Saved/Logs/Racer_UI-backup-2026.03.12-09.34.32.log
+Racer_UI/Saved/Config/CrashReportClient/UECC-Windows-A16FAEA949167DA2221CD7AEE706F8FF/CrashReportClient.ini
