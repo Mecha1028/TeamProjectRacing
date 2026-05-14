@@ -72,5 +72,3 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Content/Static_Meshes/supra/wheels/1_wheels_phong2SG_BaseColor.uasset
-Content/Static_Meshes/supra/wheels/1_wheels_phong2SG_NormalGl.uasset
